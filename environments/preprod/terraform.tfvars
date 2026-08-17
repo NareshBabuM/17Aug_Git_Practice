@@ -11,6 +11,10 @@ rgs = {
     name     = "rg-pre-pod3"
     location = "centralindia"
   }
+    rg4 = {
+    name     = "rg-pre-pod4"
+    location = "centralindia"
+  }
 }
 
 vnets = {
